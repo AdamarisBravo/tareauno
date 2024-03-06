@@ -1,0 +1,152 @@
+#contenedor
+{
+    width: 600px;
+    height: 2000px;
+    background-color: burlywood;
+
+}
+#cajaoreja
+{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 295px;
+    top: 160px;
+    border-radius: 180px;
+}
+#caja2oreja
+{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 470px;
+    top: 160px;
+    border-radius: 180px;
+}
+#cajacabeza
+{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 325px;
+    top: 150px;
+    border-radius: 100px;
+}
+#ojo
+{
+    width: 20px;
+    height: 25px;
+    background-color: black;
+    display: inline-block;
+    position: absolute;
+
+    left: 50px;
+    top: 60px;
+    border-radius: 100px; 
+}
+#ojo2
+{
+    width: 20px;
+    height: 25px;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    position: absolute;
+    left: 130px;
+    top: 60px;
+    border-radius: 100px; 
+}
+#nariz
+{
+    width: 20px;
+    height: 25px;
+    background-color: rgb(15, 15, 15);
+    display: inline-block;
+    position: absolute;
+    left: 90px;
+    top: 80px;
+    border-radius: 100px;  
+}
+#boca
+{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(15, 15, 15);
+    display: inline-block;
+    position: absolute;
+    left: 75px;
+    top: 110px;
+    border-radius: 100px;   
+}
+#cajacuerpo
+{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 325px;
+    top: 300px;
+    border-radius: 100px;
+
+}
+#estomago
+{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(160, 89, 39);
+    display: inline-block;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+    border-radius: 100px;
+}
+#cajamano
+{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 285px;
+    top: 320px;
+    border-radius: 180px;
+}
+#caja2mano
+{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 485px;
+    top: 325px;
+    border-radius: 180px;
+}
+#cajapie
+{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 295px;
+    top: 430px;
+    border-radius: 180px;
+}
+#caja2pie
+{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 475px;
+    top: 430px;
+    border-radius: 180px;
+}
